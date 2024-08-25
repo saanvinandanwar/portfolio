@@ -1,0 +1,1 @@
+// For interactive elements like other pages and buttons
