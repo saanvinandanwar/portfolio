@@ -1,1 +1,8 @@
 /* the look and feel and customization of the website */
+
+#main-header {
+    background-color: #333;
+    color: white;
+    padding: 20px; 
+    text-align: center;
+}
