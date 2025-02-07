@@ -224,6 +224,116 @@ main {
     min-width: 0;
 }
 
+/* FOR THE YOUTUBE PROJECT */
+#youtube_front_end .project_org {
+    flex: 2.5;
+}
+#youtube_front_end .project_visuals {
+    flex: 2.5;
+    display: flex;
+    background-color: clear; /* Example background for clarity, color - red */
+    padding: 0px; /* Optional padding for better spacing */
+    gap: 20px; /* space between images */
+    justify-content: space-between; 
+    width: 100%;
+}
+
+#youtube_front_end .project_visuals img {
+    flex: 1;
+    max-width: 100%; /*doesn't really matter what we put, but need smth */
+    height: auto; 
+    object-fit: cover;
+    min-width: 0;
+}
+
+/* FOR THE KALSHI PROJECT */
+#kalshi-project .project_org {
+    flex: 2.5;
+}
+#kalshi-project .project_visuals {
+    flex: 2.5;
+    display: flex;
+    background-color: clear; /* Example background for clarity, color - red */
+    padding: 0px; /* Optional padding for better spacing */
+    gap: 20px; /* space between images */
+    justify-content: space-between; 
+    width: 100%;
+}
+
+#kalshi-project .project_visuals img {
+    flex: 1;
+    max-width: 100%; /*doesn't really matter what we put, but need smth */
+    height: auto; 
+    object-fit: cover;
+    min-width: 0;
+}
+
+
+/* FOR THE SIREN SHOOT */
+#siren_shoot .project_org {
+    flex: 2.5;
+}
+#siren_shoot .project_visuals {
+    flex: 2.5;
+    display: flex;
+    background-color: clear; /* Example background for clarity, color - red */
+    padding: 0px; /* Optional padding for better spacing */
+    gap: 20px; /* space between images */
+    justify-content: space-between; 
+    width: 100%;
+}
+
+#siren_shoot .project_visuals img {
+    flex: 1;
+    max-width: 100%; /*doesn't really matter what we put, but need smth */
+    height: auto; 
+    object-fit: cover;
+    min-width: 0;
+}
+
+/* FOR THE CRAVINGS SHOOT */
+#cravings_shoot .project_org  {
+    flex: 2.5;
+}
+#cravings_shoot .project_visuals {
+    flex: 2.5;
+    display: flex;
+    background-color: clear; /* Example background for clarity, color - red */
+    padding: 0px; /* Optional padding for better spacing */
+    gap: 20px; /* space between images */
+    justify-content: space-between; 
+    width: 100%;
+}
+
+#cravings_shoot .project_visuals img {
+    flex: 1;
+    max-width: 100%; /*doesn't really matter what we put, but need smth */
+    height: auto; 
+    object-fit: cover;
+    min-width: 0;
+}
+
+/* FOR THE SWEAT TOUR */
+#sweat_tour .project_org {
+    flex: 2.5;
+}
+#sweat_tour .project_visuals {
+    flex: 2.5;
+    display: flex;
+    background-color: clear; /* Example background for clarity, color - red */
+    padding: 0px; /* Optional padding for better spacing */
+    gap: 20px; /* space between images */
+    justify-content: space-between; 
+    width: 100%;
+}
+
+#sweat_tour .project_visuals img {
+    flex: 1;
+    max-width: 100%; /*doesn't really matter what we put, but need smth */
+    height: auto; 
+    object-fit: cover;
+    min-width: 0;
+}
 
 
 /* Responsive Design */
